@@ -1,0 +1,325 @@
+{
+    "slug": "akuma-no-riddle",
+    "title": "Akuma no Riddle",
+    "description": "L'Académie Myôjô est une prestigieuse école privée qui réunit primaire, collège, lycée et université. Au sein de cette académie, il existe une classe spécial, la 'Black Class', qui ne compte que 13 lycéennes. C'est là que Tokaku Azuma, assassin entrainée depuis son plus jeune âge, rencontre sa nouvelle cible : Haru Ichinose. Mais Tokaku n'est pas la seule à vouloir assassiner Haru : toutes les filles de la classe, à l'exception de la cible, sont des assassins hors pairs.",
+    "genres": [
+        "Action",
+        " Drame",
+        " School Life"
+    ],
+    "langues": "vostfr",
+    "staff": [
+        {
+            "id": "6a2e93d6be89e",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e8c79a5971",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ec3e4a7bf4",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e90dfdf64e",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ec3e4b2958",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2eaa1721d56",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2eac5217cd3",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e94b88f675",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2eb5ffd9796",
+            "role": "Director"
+        },
+        {
+            "id": "6a2eab6742e88",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2e9ecb07e94",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2eb6001244b",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ec3e4c422b",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2eaa1737aeb",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2eac4e97d15",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ec3e4cfa75",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2eb5ffe2678",
+            "role": "Episode Director, Storyboard, Animation Director, Assistant Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2eb271e8c08",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ec3e4dc874",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2eaaf7dede0",
+            "role": "Script"
+        },
+        {
+            "id": "6a2e9ecac4077",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ec3e4e8dc4",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec3e4f2a9f",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec3e508e7b",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec3e511eee",
+            "role": "Theme Song Lyrics"
+        },
+        {
+            "id": "6a2ec3e51c789",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2eaaf86749d",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec3e528cc4",
+            "role": "Theme Song Composition"
+        },
+        {
+            "id": "6a2ec3e53374d",
+            "role": "Theme Song Lyrics"
+        },
+        {
+            "id": "6a2ec3e53cc87",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec3e546678",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec3e550437",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec3e55a09c",
+            "role": "Theme Song Composition, Theme Song Arrangement"
+        },
+        {
+            "id": "6a2eaa17dc2e5",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec3e564d94",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec3e56ed10",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec3e57b745",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec3e58ac7e",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec3e59905b",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec3e5a619f",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9e22853f4",
+            "role": "Music"
+        },
+        {
+            "id": "6a2ec3e5b67ff",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e90e129962",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2eaa1855359",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ec3e5c7d0b",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eb6017098d",
+            "role": "Chief Animation Director, Character Design"
+        },
+        {
+            "id": "6a2e90e147638",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e93d7c5548",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2eab69464c1",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2eb6019a605",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ec3e5d8755",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec3e5e18ac",
+            "role": "Original Creator"
+        },
+        {
+            "id": "6a2ec3e5ebe9a",
+            "role": "Production Manager"
+        },
+        {
+            "id": "6a2ec3e60119e",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eb601d85fa",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec3e60c654",
+            "role": "Original Character Design"
+        },
+        {
+            "id": "6a2ec3e615a58",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec3e61e6c1",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2ec3e626fdf",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2eabdbc2535",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e94b868d36",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8dce0bbda",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec3e6325ab",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec3e63c03b",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec3e6451f8",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8cef652f5",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e93d80da73",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e90e24cede",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec3e650c41",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e973035077",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ec3e65b1a3",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e952c0765c",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eaafd63731",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e959f63381",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ec3e66928b",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec1b55c1d2",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ec3e673c45",
+            "role": "Series Composition"
+        }
+    ],
+    "statistics": {
+        "saison": 1,
+        "episode": 13
+    }
+}

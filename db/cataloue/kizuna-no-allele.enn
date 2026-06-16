@@ -1,0 +1,285 @@
+{
+    "slug": "kizuna-no-allele",
+    "title": "Kizuna no Allele",
+    "description": "Projet animé basée sur Kizuna Ai, une youtubeuse virtuelle. L'histoire se centre sur Miracle, une jeune femme qui souhaite devenir une artiste virtuelle aussi populaire que son modèle : Kizuna Ai.",
+    "genres": [
+        "School Life",
+        " I.A",
+        " Musique"
+    ],
+    "langues": "vostfr",
+    "staff": [
+        {
+            "id": "6a2ed48c9ac35",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2f28193f54c",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e8b6a7311c",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2f2819545f6",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2f28196302d",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed693b0b26",
+            "role": "Director, Storyboard"
+        },
+        {
+            "id": "6a2e8b6b2633c",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2e8cee170b3",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ed77032f46",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ed45beb302",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e9446e8070",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2eab6b2ed3c",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2f28199f2cd",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ef3e755fe7",
+            "role": "Script"
+        },
+        {
+            "id": "6a2e94460afc6",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ecea00579d",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2f2819c0479",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2f2819cf0ab",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2f2819de97b",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2f2819ee747",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2f281a094a1",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ed075acfd1",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2f281a1e3cd",
+            "role": "Theme Song Lyrics"
+        },
+        {
+            "id": "6a2f281aba5fd",
+            "role": "Theme Song Lyrics, Theme Song Arrangement, Theme Song Composition"
+        },
+        {
+            "id": "6a2e8e3976eff",
+            "role": "Series Composition"
+        },
+        {
+            "id": "6a2e8b6c1802d",
+            "role": "Sound Effects"
+        },
+        {
+            "id": "6a2ec066df44d",
+            "role": "Chief Animation Director, Character Design"
+        },
+        {
+            "id": "6a2e96513178f",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed2918ef6c",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2f281ae85ac",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec0da74cfc",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ea4a5005c9",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ed5e0934ba",
+            "role": "Co-Producer"
+        },
+        {
+            "id": "6a2e9f3b0c55b",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2e8c7bd5ac0",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2f0488c0b27",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2f281b2755d",
+            "role": "Director of Photography"
+        },
+        {
+            "id": "6a2ed240ac6d9",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ed223c224a",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ece395d462",
+            "role": "Editing"
+        },
+        {
+            "id": "6a2ece14a6bec",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ecdbb922cf",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2f281b53a00",
+            "role": "Original Character Design"
+        },
+        {
+            "id": "6a2f281b61293",
+            "role": "Character Design, Chief Animation Director"
+        },
+        {
+            "id": "6a2e8dce0bbda",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ea4a65e887",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eebcd7878f",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2e8b6a842be",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ecc8d31535",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e9ece6679b",
+            "role": "Music"
+        },
+        {
+            "id": "6a2e97d2afd31",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed7809ba3e",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2eeda3ef291",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ed48d70657",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2ec06a30620",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec2245e57f",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8cefaf865",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2e90e27e6dd",
+            "role": "Chief Animation Director"
+        },
+        {
+            "id": "6a2f281bc3b0a",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e973048276",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8b6fc254f",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eaa8a62f89",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eaafd63731",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec2251385b",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ecd9c74331",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2f281c01c36",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ea8e2572cf",
+            "role": "Animation Director"
+        }
+    ],
+    "statistics": {
+        "saison": 2,
+        "episode": 24
+    }
+}

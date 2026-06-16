@@ -1,0 +1,360 @@
+{
+    "slug": "henjin-no-salad-bowl",
+    "title": "Henjin no Salad Bowl",
+    "description": "Sôsuke Kaburaya est un détective assez pauvre qui, lors d'une filature, fait la rencontre de Sara da Odin, une princesse utilisant la magie venue d'un autre monde. Constatant que Sara ne connait rien au Japon moderne et au vue de ses pouvoirs magiques, Sôsuke décide de s'occuper de cette dernière. Cependant, Sara n'est pas la seule à être originaire d'un autre monde. En effet, Livia do Udis, une chevaleresse qui accompagnait Sara durant son voyage, mène une vie heureuse en tant que sans-abri. Ainsi, Sôsuke, Sara et Livia sont souvent confrontés à pleins de situations loufoques avec les nombreuses personnes qui vivent dans leur quartier.",
+    "genres": [
+        "Comédie",
+        " Fantastique",
+        " Romance",
+        " Slice of Life",
+        " Détective",
+        " Magie"
+    ],
+    "langues": "vostfr",
+    "staff": [
+        {
+            "id": "6a2ef64c0fd58",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ec1b30c369",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed7573f260",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ede6cd9fd9",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ea515dbe95",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ef64c32dd5",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ef64c3ffc1",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e8b6a7b15e",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e972d55b39",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ef64c57173",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2eb373b34a6",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2ef64c681f4",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2ecc8cca3d9",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2ecc8d749e7",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2ee05e20af2",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2e96bfac7bb",
+            "role": "Director, Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ecc55335f3",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2ef64c8c0d8",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e8c0a5e0b2",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ed35b2ff4d",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e8c7a24c82",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ec3e4cfa75",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2eeb108e7bd",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ed00ab407d",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ed51f10567",
+            "role": "Script, Original Creator, Series Composition"
+        },
+        {
+            "id": "6a2eb27242462",
+            "role": "Script, Series Composition"
+        },
+        {
+            "id": "6a2ec4527e32e",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ecea02f643",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ef64ccadd6",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ea5163cb84",
+            "role": "Theme Song Arrangement"
+        },
+        {
+            "id": "6a2ef64cdc856",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ea516588ff",
+            "role": "Theme Song Composition, Theme Song Performance, Theme Song Arrangement, Theme Song Lyrics"
+        },
+        {
+            "id": "6a2ed8624ce0e",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ee4f239d8f",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8b6c3afeb",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ef64d0865d",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2ed5106996d",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e93d782770",
+            "role": "Chief Animation Director, Character Design"
+        },
+        {
+            "id": "6a2ef64d1ec5b",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eebcbe4842",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ef64d2f3d8",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8b6d22f1d",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ea516bad4c",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ed51f70598",
+            "role": "Original Character Design"
+        },
+        {
+            "id": "6a2ed581f124f",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ecc66e3d09",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ef4db4c306",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2ecd34c5b9e",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2e959df1d39",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2e8c7ca1854",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed0b109448",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ef64d6af44",
+            "role": "Chief Animation Director"
+        },
+        {
+            "id": "6a2e8c0b83b50",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8c7ce4637",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecd34ceeee",
+            "role": "Editing"
+        },
+        {
+            "id": "6a2e8ffd95ed7",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eb3751199d",
+            "role": "Music"
+        },
+        {
+            "id": "6a2e8e3ab4fca",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8c7d56682",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ea9509da78",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ece5c2cfee",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ef64d9fb4a",
+            "role": "Director of Photography"
+        },
+        {
+            "id": "6a2e9e22785cb",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8e3b1f3f3",
+            "role": "Sound Effects"
+        },
+        {
+            "id": "6a2ecc7b2fe25",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8ffe1ba26",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ef64dbea3a",
+            "role": "Inserted Song Performance"
+        },
+        {
+            "id": "6a2e8c7e2d88f",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eda4ad38ad",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e973035077",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ed593acad1",
+            "role": "Character Design, Chief Animation Director"
+        },
+        {
+            "id": "6a2ec453cfd06",
+            "role": "Music"
+        },
+        {
+            "id": "6a2ef64de1cb9",
+            "role": "Recording Assistant"
+        },
+        {
+            "id": "6a2e8b6faf473",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ec30942021",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ef64e03895",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ec1b524293",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ed980c35a4",
+            "role": "Music"
+        },
+        {
+            "id": "6a2e9e266272d",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed43ad2088",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ea51791246",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2ed833973f5",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ef64e2af39",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2ed832496ce",
+            "role": "Inserted Song Performance"
+        },
+        {
+            "id": "6a2e8b70a6bd4",
+            "role": "Animation Director"
+        }
+    ],
+    "statistics": {
+        "saison": 1,
+        "episode": 12
+    }
+}

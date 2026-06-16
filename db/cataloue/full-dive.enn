@@ -1,0 +1,367 @@
+{
+    "slug": "full-dive",
+    "title": "Full Dive",
+    "description": "Hiroshi Yuki, un lycéen ennuyeux, a obtenu le RPG Polar Quest à la suite d'une étrange succession d'événements. Le jeu, réalisé à l'aide de la meilleure technologie, fait honneur à sa réputation de \"réalisme ultime\". Les graphismes, le comportement des PNJ, l'odeur des plantes et des arbres ou encore la brise qui vous caresse le visage. Tout est si réaliste que cela en devient insupportable. De plus, le joueur doit compléter plus de 10.000.000.000.000.000 de quêtes pour terminer le jeu. En rajoutant à ça le faite que si on se blesse, cela met plusieurs jours à guérir, le jeu en devient presque impossible à terminer.\r\n\r\nNous allons donc suivre ce lycéen qui va essayer de terminer un jeu trop réaliste avec comme seule récompense le sentiment d'accomplissement.",
+    "genres": [
+        "Action",
+        " Aventure",
+        " Comédie",
+        " Ecchi",
+        " Romance"
+    ],
+    "langues": "vostfr",
+    "staff": [
+        {
+            "id": "6a2eea93ba4fb",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ebf816c15c",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e8c79a5971",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e8d5f372a6",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e94b75cfbf",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed24f33ee2",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ece02dd657",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e8c79c5376",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2ecfb0e6798",
+            "role": "Director, Storyboard"
+        },
+        {
+            "id": "6a2e97d11c3c7",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2eab674cffd",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ea8dede7ba",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ecf4adaa8d",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2eea940e92e",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ed6777f7dc",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e8c0a5e0b2",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2e8cee27f0b",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e93d72d379",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ec2919dc92",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ebff1a9024",
+            "role": "Script, Series Composition"
+        },
+        {
+            "id": "6a2eab67809b4",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2e8c7c98a4e",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ebff1d174e",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2eea9440b97",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ed2914c2f1",
+            "role": "Theme Song Arrangement, Theme Song Composition"
+        },
+        {
+            "id": "6a2ed2225b8b0",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2eea9458c2b",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ee34508635",
+            "role": "Theme Song Composition, Theme Song Lyrics"
+        },
+        {
+            "id": "6a2eea9474a90",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ed87e740ba",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ee34514867",
+            "role": "Theme Song Composition, Theme Song Arrangement"
+        },
+        {
+            "id": "6a2eea949003f",
+            "role": "Theme Song Composition, Theme Song Arrangement"
+        },
+        {
+            "id": "6a2ed98d0d7d4",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ee2d0c1652",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ecf8d1f523",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2e94b7ce21b",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2eea954563e",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ecc8c9fa51",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ecf5c33300",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ecfb183483",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed8329271f",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e90e147638",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed51f504d9",
+            "role": "Assistant Animation Director"
+        },
+        {
+            "id": "6a2eb66c8c827",
+            "role": "Sound Effects"
+        },
+        {
+            "id": "6a2eea9577869",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eea95841e8",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8e3a223ac",
+            "role": "Assistant Animation Director, Animation Director"
+        },
+        {
+            "id": "6a2eaaf9f048e",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2edfd3b7c06",
+            "role": "Chief Animation Director, Character Design"
+        },
+        {
+            "id": "6a2e9651cdb17",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ecf5c551bb",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e944973d73",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed04d344df",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8c7c2920b",
+            "role": "Chief Animation Director"
+        },
+        {
+            "id": "6a2e8d5f6af54",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ecfb1ed0c4",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ebea511213",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2e9529282ca",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed832e1be1",
+            "role": "Director of Photography"
+        },
+        {
+            "id": "6a2ed0b109448",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eabdb402ee",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8e3a858c1",
+            "role": "Assistant Animation Director, Animation Director"
+        },
+        {
+            "id": "6a2e9529982a4",
+            "role": "Chief Animation Director"
+        },
+        {
+            "id": "6a2e8e3aacf56",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed93247ddb",
+            "role": "Music"
+        },
+        {
+            "id": "6a2ecfb2498d9",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e952a34973",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ea8e19aedc",
+            "role": "Editing"
+        },
+        {
+            "id": "6a2ece2762700",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8cef652f5",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e972faf326",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ed359b102d",
+            "role": "Recording Engineer"
+        },
+        {
+            "id": "6a2ec378f1eb4",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2e9e25863d8",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2ed7bdc752d",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2edbd4280ad",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ec224d2b34",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2e94475917c",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8d5fdb8e1",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2ecd5e7435f",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed71b13f0e",
+            "role": "Original Creator"
+        },
+        {
+            "id": "6a2eea9630da2",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e952c665c4",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e944bf311f",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8e3b52aba",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e94b8b3c7f",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2eea964e2a3",
+            "role": "Original Character Design"
+        }
+    ],
+    "statistics": {
+        "saison": 1,
+        "episode": 12
+    }
+}

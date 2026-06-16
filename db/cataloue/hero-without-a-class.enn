@@ -1,0 +1,231 @@
+{
+    "slug": "hero-without-a-class",
+    "title": "Hero Without a Class",
+    "description": "Dans un monde où chacun reçoit une \"classe\" à l'âge de 10 ans, la vie tourne autour des compétences ainsi acquises. Mais que se passe-t-il lorsque le sort ne nous attribue aucune classe ? C'est ce que doit découvrir Arel qui, malgré ce handicap, a bien l'intention de marquer les esprits.",
+    "genres": [
+        "Action ",
+        " Aventure ",
+        " Comédie ",
+        " Fantasy ",
+        " Magie"
+    ],
+    "langues": "vostfr",
+    "staff": [
+        {
+            "id": "6a2ef68f72de5",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ef68f7f86c",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ef68f8d911",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ee8d743698",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ef68fa0cef",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e8b6f12be8",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ef68fb22ec",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ece376d649",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ee6619dfb0",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e9eceecf1d",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ef68fccace",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2ef68fdb063",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2e96bf5199c",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2ef68fecc72",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2eb2722520d",
+            "role": "Director"
+        },
+        {
+            "id": "6a2e8d5f0fc06",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2ed2912967b",
+            "role": "Script, Series Composition"
+        },
+        {
+            "id": "6a2eac4f67d82",
+            "role": "Theme Song Lyrics"
+        },
+        {
+            "id": "6a2ef69019084",
+            "role": "Theme Song Composition, Theme Song Lyrics"
+        },
+        {
+            "id": "6a2ef690271a3",
+            "role": "Theme Song Arrangement"
+        },
+        {
+            "id": "6a2ef5d5d2b36",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ef690389a7",
+            "role": "Theme Song Arrangement, Theme Song Composition"
+        },
+        {
+            "id": "6a2ef69045137",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ecc3564cf7",
+            "role": "Theme Song Lyrics"
+        },
+        {
+            "id": "6a2ef6905656c",
+            "role": "Music"
+        },
+        {
+            "id": "6a2ea8dfe4b84",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2eb37353db1",
+            "role": "Character Design"
+        },
+        {
+            "id": "6a2ef6906cf83",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2e93d77a4ad",
+            "role": "Chief Producer"
+        },
+        {
+            "id": "6a2ed87dbef8e",
+            "role": "Chief Producer"
+        },
+        {
+            "id": "6a2ee66532af7",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ecee84ac00",
+            "role": "Sound Effects"
+        },
+        {
+            "id": "6a2e8ffd08188",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ed93224c36",
+            "role": "Director of Photography"
+        },
+        {
+            "id": "6a2ef4db4c306",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2ed24061f3a",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2ef690a2d34",
+            "role": "Original Creator"
+        },
+        {
+            "id": "6a2ea8e146e26",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ed3b1dd39d",
+            "role": "Chief Producer"
+        },
+        {
+            "id": "6a2ef690b97c1",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2ecd34ceeee",
+            "role": "Editing"
+        },
+        {
+            "id": "6a2e97d271496",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ef690cf54f",
+            "role": "Original Character Design"
+        },
+        {
+            "id": "6a2e8f8e33b9d",
+            "role": "Chief Producer"
+        },
+        {
+            "id": "6a2ea8de949d3",
+            "role": "Chief Producer"
+        },
+        {
+            "id": "6a2ef690e61b8",
+            "role": "Director of Photography"
+        },
+        {
+            "id": "6a2ef690f39f7",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ef6910d76a",
+            "role": "Original Character Design"
+        },
+        {
+            "id": "6a2e8ffe5afcf",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2e9730846b2",
+            "role": "Character Design"
+        },
+        {
+            "id": "6a2ef64e2af39",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2ea8dea88e2",
+            "role": "Chief Producer"
+        },
+        {
+            "id": "6a2ea8e24f215",
+            "role": "Art Director"
+        }
+    ],
+    "statistics": {
+        "saison": 2,
+        "episode": 13
+    }
+}

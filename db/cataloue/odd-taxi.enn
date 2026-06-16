@@ -1,0 +1,217 @@
+{
+    "slug": "odd-taxi",
+    "title": "OddTaxi",
+    "description": "\"Alors, où je vous emmène ?\"\nCette ville devrait vous sembler familière, mais soudain, elle ne l'est plus. Le chauffeur de taxi Odokawa a une vie très banale. Il n'a pas de famille, traîne rarement avec les autres et c'est un excentrique borné qui ne parle pas beaucoup. Les seules personnes qu'il peut appeler ses amis sont son médecin, Gôriki, et son camarade de classe du lycée, Kakibana.\nTous ses clients semblent être eux-mêmes un peu bizarres. L'étudiant qui veut que le monde entier le remarque sur les réseaux sociaux, Kabasawa. Une infirmière et ses secrets, Shirakawa. Un duo comique qui ne s'arrête jamais, les Homosapiens. Un voyou local, Dobu. Un groupe d'idoles qui débute, les Mystery Kiss... Toutes ces conversations a priori banales finissent par mener à la disparition d'une fille...",
+    "genres": [
+        "Mystère",
+        " Animaux",
+        " Quotidien"
+    ],
+    "langues": "vostfr",
+    "staff": [
+        {
+            "id": "6a2e9e21a985a",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e97d0a8bd7",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2eda5940781",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e959c6ee4b",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2eec819a997",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2f4a1e76ef9",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ee76a55cc5",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2f4a1e8f591",
+            "role": "Director, Storyboard, Key Animation, Character Design"
+        },
+        {
+            "id": "6a2ea5161da4f",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2e8cee170b3",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e965065701",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e965001462",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e9e22244bc",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2f4a1f7b823",
+            "role": "Episode Director, Storyboard, Animation Director"
+        },
+        {
+            "id": "6a2ed7629690d",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2f4a202beb3",
+            "role": "Script"
+        },
+        {
+            "id": "6a2eeb8a50196",
+            "role": "Script"
+        },
+        {
+            "id": "6a2eac4f8f776",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2eeb245227d",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ed77f3fdcd",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2f4a2057062",
+            "role": "Director of Photography"
+        },
+        {
+            "id": "6a2e90e00259f",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2f0bf860aa7",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ed3b1bbca6",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2e97d1a1339",
+            "role": "Inserted Song Performance"
+        },
+        {
+            "id": "6a2eab69464c1",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ee3b53d164",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ece8c2a26d",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e97d254398",
+            "role": "Associate Producer"
+        },
+        {
+            "id": "6a2ed223c224a",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ee4d50cb9e",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ee3b589c28",
+            "role": "Chief Animation Director, Character Design"
+        },
+        {
+            "id": "6a2f190f9290a",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ee3b2aa07f",
+            "role": "Assistant Director"
+        },
+        {
+            "id": "6a2f4a20beb43",
+            "role": "Music"
+        },
+        {
+            "id": "6a2e8b6e85f8e",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed62fd7975",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2eaafbdf420",
+            "role": "Chief Animation Director"
+        },
+        {
+            "id": "6a2f4a2199f2c",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2f4a21a7e26",
+            "role": "Music"
+        },
+        {
+            "id": "6a2ed6e6d3ea8",
+            "role": "Chief Animation Director"
+        },
+        {
+            "id": "6a2ec06a63fd6",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e952bcb7e5",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ee3b6843b7",
+            "role": "Editing"
+        },
+        {
+            "id": "6a2f4a229194b",
+            "role": "Music"
+        },
+        {
+            "id": "6a2e9652dd10e",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2eaa1ac8cdd",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed52c7d853",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ee3b6a99d3",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8ffe6c290",
+            "role": "Sound Effects"
+        }
+    ],
+    "statistics": {
+        "saison": 1,
+        "episode": 13
+    }
+}

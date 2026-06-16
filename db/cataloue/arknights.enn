@@ -1,0 +1,35 @@
+{
+    "slug": "arknights",
+    "title": "Arknights",
+    "description": "Arknights se déroule dans le monde dystopique de Terra, un monde similaire à la Terre, à l'exception du fait que de nombreux Terriens, ou 'Anciens', possèdent des traits animaliers. Le monde de Terra est constamment ravagé par des catastrophes, forçant ses habitants à adopter une vie de nomade. Ces catastrophes ont apporté avec elles la pandémie connue sous le nom d'Oripathy, une maladie mortelle causée par l'exposition à l'Originium, un minéral cristallin laissé sur place après les catastrophes. Cependant, l'Originium est également à l'origine des Arts, une forme de magie. L'histoire est racontée du point de vue de Rhodes Island, une organisation médicale paramilitaire, dont la mission est de fournir un traitement aux personnes infectées par l'Oripathy. Nous suivons le conflit entre Rhodes Island et Reunion Movement, un acteur non étatique violent dont l'objectif est de créer une vie meilleure pour les Infectés, des individus atteints d'Oripathy, en punissant les responsables de leur sort. C'est dans ce climat que nous suivons 'Docteur', une personne devenue amnésique après s'être réveillée d'un 'long sommeil' au milieu d'une catastrophe.",
+    "genres": [
+        "Action",
+        " Drame",
+        " Fantasy",
+        " Mystère",
+        " Science-fiction"
+    ],
+    "langues": "vostfr",
+    "staff": [
+        {
+            "id": "6a2eceb1cffaa",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eceb1dbd1c",
+            "role": "Inserted Song Performance"
+        },
+        {
+            "id": "6a2eabdce36ba",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eceb1e7c61",
+            "role": "Key Animation"
+        }
+    ],
+    "statistics": {
+        "saison": 3,
+        "episode": 26
+    }
+}

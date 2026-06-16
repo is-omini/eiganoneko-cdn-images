@@ -1,0 +1,664 @@
+{
+    "slug": "heike-monogatari",
+    "title": "Heike Monogatari",
+    "description": "Heike Monogatari raconte l'histoire de l'ascension et de la chute du clan Taira pendant la guerre de Genpei. L'anime se centre sur le point de vue de Biwa, une ménestrel voyageuse aveugle. Biwa rencontre Taira no Shigemori, héritier de son clan et porteur d'une vision surnaturelle lui permettant de percevoir les fantômes. Elle lui proclame alors une prophétie de la chute de son clan.",
+    "genres": [
+        "Historique",
+        " Samouraïs"
+    ],
+    "langues": "vostfr",
+    "staff": [
+        {
+            "id": "6a2ecec1ca665",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed39a3b7ad",
+            "role": "Producer, Production Manager"
+        },
+        {
+            "id": "6a2e8c79a5971",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ecc784b21d",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ecd6e5c9a3",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed9cdad305",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2eced6cde2e",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed9cd88ff4",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2eb5938e946",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2ef58babf7f",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2ecd4bc2632",
+            "role": "Director, Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ed9cdd411e",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2ec221a199e",
+            "role": "Episode Director, Storyboard, Key Animation"
+        },
+        {
+            "id": "6a2ef58bcb4ee",
+            "role": "Episode Director, Assistant Animation Director, 2nd Key Animation, Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ef58bd9092",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ed9ce58eb0",
+            "role": "Episode Director, Storyboard, Key Animation, Animation Director"
+        },
+        {
+            "id": "6a2ef58beb4dd",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2e965025d6a",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ed553041af",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ed9cdc7a29",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ecc9f4dfce",
+            "role": "Episode Director, Storyboard, Key Animation"
+        },
+        {
+            "id": "6a2eced50725e",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ec0dacfb3c",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ef58c214b8",
+            "role": "Theme Song Lyrics, Theme Song Performance"
+        },
+        {
+            "id": "6a2ef58cbb54b",
+            "role": "Theme Song Performance, Theme Song Arrangement"
+        },
+        {
+            "id": "6a2ed5128adca",
+            "role": "Theme Song Arrangement, Theme Song Composition, Theme Song Performance, Music"
+        },
+        {
+            "id": "6a2ef58cd32f3",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ef58ce04d7",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2eabd97d9f3",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ece261fea7",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec2218a64b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed2152aadd",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ee380f29b2",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e94b7ee61d",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ef58d1467f",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ec221d1bdf",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed03b80e96",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec221e3cec",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ee3810df14",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2e8c0b0ad9c",
+            "role": "2nd Key Animation, Assistant Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2e906ddaa2a",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed2bbb9213",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2e972e8e84c",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ecd9b27c13",
+            "role": "Key Animation, Animation Director"
+        },
+        {
+            "id": "6a2e8c7b0068f",
+            "role": "Editing"
+        },
+        {
+            "id": "6a2eb592f3230",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ef58d536bd",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2ecea0b9185",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ecf31dbd80",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed0c52256a",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9ecca5ccc",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ed747b3342",
+            "role": "2nd Key Animation, Key Animation"
+        },
+        {
+            "id": "6a2ec06795a14",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed47f6e313",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e95281e796",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ef58d86ac3",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec2225a728",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2e906e72ac3",
+            "role": "Assistant Animation Director, Animation Director"
+        },
+        {
+            "id": "6a2e906e844d0",
+            "role": "Animation Director, Assistant Animation Director"
+        },
+        {
+            "id": "6a2ed35aab8a7",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2e972ee5ee6",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ed748235bd",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ed898dabf2",
+            "role": "Director of Photography"
+        },
+        {
+            "id": "6a2eb3744f775",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ece267fd89",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed24029c6b",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2e8c7bb3b78",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ef58dc64c0",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ed62fb3c88",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed4f17fee9",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ea4a5aa973",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2eaafa370e9",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e972f27f64",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed24093eea",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecd4c16605",
+            "role": "Chief Animation Director, Character Design"
+        },
+        {
+            "id": "6a2e8b6d93663",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ef58e04d36",
+            "role": "Art Director, Background Art"
+        },
+        {
+            "id": "6a2eaafa7d202",
+            "role": "Sound Effects"
+        },
+        {
+            "id": "6a2ee88dc5fca",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2e972f440e2",
+            "role": "2nd Key Animation, In-Between Animation"
+        },
+        {
+            "id": "6a2ec222bce29",
+            "role": "2nd Key Animation, Key Animation"
+        },
+        {
+            "id": "6a2e8e3a5c50c",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2e8c7c7f195",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eb59351002",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ed387a7d3d",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec222da56d",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ed43a1f488",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2e8c7c8fecc",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2e8c7c98a4e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ef58e7568b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8b6e06cb3",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eb374e56a2",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ef58e8bd03",
+            "role": "Publicity"
+        },
+        {
+            "id": "6a2ed7492ff1b",
+            "role": "2nd Key Animation, Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2e8b6e23186",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e906f355b4",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ed387bf782",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2eda8d775d6",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaa196c4fb",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec220cdecf",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ee4d324857",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ef58ebe9eb",
+            "role": "Assistant Animation Director, Key Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2ed5c4267b3",
+            "role": "Key Animation, Animation Director, Assistant Animation Director"
+        },
+        {
+            "id": "6a2ed9d08c6d8",
+            "role": "Assistant Animation Director, Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ed9d09b6e9",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec679b9b49",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaafb83dd9",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed7da05b8b",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ed4e45f123",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ece1515795",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecc459a82f",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecdbbbcaa2",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ece274dec0",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e944a8f601",
+            "role": "Key Animation, Animation Director"
+        },
+        {
+            "id": "6a2ef58f11416",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2e8f8e33b9d",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ef58f2310a",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ecefb61e52",
+            "role": "Key Animation, Animation Director"
+        },
+        {
+            "id": "6a2ed9d0ca436",
+            "role": "Assistant Animation Director, Key Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2eb375659e8",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ed78090b59",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2e8f8ed8b9d",
+            "role": "Animation Director, Assistant Animation Director"
+        },
+        {
+            "id": "6a2eaa19dd64c",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e944aa0ccb",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8b6eb8a92",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ed422907e4",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2ecd4c6f847",
+            "role": "2nd Key Animation, Assistant Animation Director, Animation Director"
+        },
+        {
+            "id": "6a2e8b6f12be8",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ec0db5d32d",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ea9532b9f1",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed74a34c17",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2eedba352e3",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ef58f72337",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2ec2247a6c9",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e90702f2f2",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed24288a7d",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e973008795",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ef58f916df",
+            "role": "Original Character Design"
+        },
+        {
+            "id": "6a2ed68872557",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec1b4c8313",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ef44d4aeb4",
+            "role": "Key Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2eebc7bc0f3",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2eac5246ac0",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed23e802f2",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecdf03de72",
+            "role": "Key Animation, Animation Director"
+        },
+        {
+            "id": "6a2e8c7e970ab",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e944bb79c5",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2eef0f7d0b1",
+            "role": "2nd Key Animation, Animation Director"
+        },
+        {
+            "id": "6a2ecca2d5c7c",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec2251385b",
+            "role": "Key Animation, Animation Director"
+        },
+        {
+            "id": "6a2e97d313537",
+            "role": "Key Animation, Assistant Animation Director"
+        },
+        {
+            "id": "6a2ea4a78b7b7",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eabddf1d84",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ed6e7a49bc",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eb2735fc86",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ee5585c6a9",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed7daae6b2",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ef59054615",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecdbbe6580",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9e26cd2da",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ea4a7cfe0c",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2eccc345157",
+            "role": "2nd Key Animation"
+        }
+    ],
+    "statistics": {
+        "saison": 1,
+        "episode": 11
+    }
+}

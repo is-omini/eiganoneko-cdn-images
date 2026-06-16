@@ -1,0 +1,369 @@
+{
+    "slug": "the-ramparts-of-ice",
+    "title": "The Ramparts of Ice",
+    "description": "Koyuki est une jeune fille qui a construit un véritable \"mur de glace\" autour de son cœur pour se protéger après avoir été blessée par le passé. Sa vie monotone change lentement lorsqu'elle commence à échanger avec Minato, un garçon chaleureux et persévérant qui tente de faire fondre ses barrières.",
+    "genres": [
+        "Drame",
+        " Romance",
+        " School Life"
+    ],
+    "langues": null,
+    "staff": [
+        {
+            "id": "6a2fd0eec3c30",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ea515d2277",
+            "role": "Producer, Episode Director"
+        },
+        {
+            "id": "6a2ea515dbe95",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ea51600c78",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ee54040e5d",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2ee05e1478e",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2f40a5b6065",
+            "role": "Director, Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ea5161da4f",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2ed5ef301c9",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2e9eca95ffd",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ed3be96b7e",
+            "role": "Episode Director, Storyboard, Assistant Director"
+        },
+        {
+            "id": "6a2fd0ef3544e",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2fd0ef46ac3",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e8ffc07b7c",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e965033bfb",
+            "role": "Script, Series Composition"
+        },
+        {
+            "id": "6a2fd0ef695e5",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ec377cce5b",
+            "role": "Script"
+        },
+        {
+            "id": "6a2fd0ef85422",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ed73408e71",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ed46b67848",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ea4a444f30",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ea4a4a2076",
+            "role": "Theme Song Performance, Theme Song Arrangement"
+        },
+        {
+            "id": "6a2ea4a4ac755",
+            "role": "Theme Song Composition"
+        },
+        {
+            "id": "6a2efaaccfdf7",
+            "role": "Theme Song Arrangement, Theme Song Performance"
+        },
+        {
+            "id": "6a2efaace51e1",
+            "role": "Theme Song Lyrics, Theme Song Composition"
+        },
+        {
+            "id": "6a2f8d9535391",
+            "role": "Original Creator"
+        },
+        {
+            "id": "6a2ed7572084e",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ed46bc6016",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eb373691d3",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ea51683fdd",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2fd0f005dca",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed83f251f5",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8c7ad87e6",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2f63f042bd8",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2ed46c3f750",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2fd0f037fc4",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2fd0f0488bc",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eab68b99c7",
+            "role": "Character Design"
+        },
+        {
+            "id": "6a2ea516bad4c",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2fd0f06e06c",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2fd0f07ea21",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed0b0f12bf",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ef3110c1c1",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ed46cebb40",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2f91c27b81d",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2fd0f0b38d2",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ece39105bb",
+            "role": "Assistant Animation Director, Animation Director"
+        },
+        {
+            "id": "6a2eb374dba18",
+            "role": "Art Director, Background Art"
+        },
+        {
+            "id": "6a2ea4a5e23c6",
+            "role": "Recording Assistant"
+        },
+        {
+            "id": "6a2eabdb402ee",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ece397d147",
+            "role": "Assistant Animation Director, Animation Director"
+        },
+        {
+            "id": "6a2fd0f0efc2c",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2fd0f10c35a",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2e8cef1f42c",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e9e24b221c",
+            "role": "Chief Animation Director"
+        },
+        {
+            "id": "6a2eeef436d07",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8d5f8e86b",
+            "role": "Assistant Animation Director, Animation Director"
+        },
+        {
+            "id": "6a2e8c0babb0b",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2ea952d7d2d",
+            "role": "Character Design, Chief Animation Director, Animation Director"
+        },
+        {
+            "id": "6a2fd0f14f43e",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eabdc2d8bd",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ee4bb66683",
+            "role": "Music"
+        },
+        {
+            "id": "6a2ea5174779b",
+            "role": "Chief Producer"
+        },
+        {
+            "id": "6a2ea5175b200",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed085893a5",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ea517664ce",
+            "role": "Music"
+        },
+        {
+            "id": "6a2eb375d7fca",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2f16d16a286",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2f634d3b65c",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2ece15a3fc6",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2fd0f1b47ba",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ed46e8131e",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2f722bf273b",
+            "role": "Director of Photography"
+        },
+        {
+            "id": "6a2ed46e9edfe",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2fd0f1df3c2",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ee8b25f1ef",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2fd0f203f9d",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2f89e30d89f",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed34b00d3d",
+            "role": "Recording"
+        },
+        {
+            "id": "6a2ecf8f83548",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8c7ecd348",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8ffe6c290",
+            "role": "Sound Effects"
+        },
+        {
+            "id": "6a2ed33cc18c1",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed74c07e4b",
+            "role": "Editing"
+        },
+        {
+            "id": "6a2ee63b81f6e",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ea517ba38e",
+            "role": "Chief Animation Director"
+        },
+        {
+            "id": "6a2fd0f25f010",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ea5163136f",
+            "role": "Chief Animation Director, Animation Director"
+        }
+    ],
+    "statistics": {
+        "saison": 0,
+        "episode": 0
+    }
+}

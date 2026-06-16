@@ -1,0 +1,355 @@
+{
+    "slug": "star-wars-visions",
+    "title": "Star Wars : Visions",
+    "description": "Star Wars: Visions est une série d'anthologie réalisée par de célèbres studios comme Trigger ou encore Production I.G.",
+    "genres": [
+        "Action",
+        " Aventure",
+        " Drame",
+        " Fantasy",
+        " Science-fiction"
+    ],
+    "langues": "vf",
+    "staff": [
+        {
+            "id": "6a2ef11787d38",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed22fab9fc",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2f683447743",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed39a3b7ad",
+            "role": "Director"
+        },
+        {
+            "id": "6a2ed9ce113e2",
+            "role": "Director, Storyboard, Key Animation"
+        },
+        {
+            "id": "6a2ed3494b646",
+            "role": "Director, Script, Storyboard"
+        },
+        {
+            "id": "6a2ed230a3932",
+            "role": "Director, Character Design"
+        },
+        {
+            "id": "6a2ed590ca139",
+            "role": "Director, Storyboard"
+        },
+        {
+            "id": "6a2ec3075a4c5",
+            "role": "Director, Script, Storyboard"
+        },
+        {
+            "id": "6a2e9e241efe9",
+            "role": "Director"
+        },
+        {
+            "id": "6a2fad0f4540c",
+            "role": "Director"
+        },
+        {
+            "id": "6a2ed59057550",
+            "role": "Director, Script, Executive Producer"
+        },
+        {
+            "id": "6a2ea4a44f91c",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2ecd000719b",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2fad103455e",
+            "role": "Script"
+        },
+        {
+            "id": "6a2e90e09a1a4",
+            "role": "Script"
+        },
+        {
+            "id": "6a2fad104c8c3",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ed593e79c4",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ed5911c9f7",
+            "role": "Storyboard, Character Design, Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ed9cff244a",
+            "role": "Storyboard, Key Animation"
+        },
+        {
+            "id": "6a2ed59087bfa",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ed5937c446",
+            "role": "Storyboard, Animation Director"
+        },
+        {
+            "id": "6a2ed5913c706",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed42138261",
+            "role": "Character Design"
+        },
+        {
+            "id": "6a2fad10987b4",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ecce23419f",
+            "role": "Music"
+        },
+        {
+            "id": "6a2ed5916fa9d",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed2152aadd",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed9cde095b",
+            "role": "Assistant Director"
+        },
+        {
+            "id": "6a2ed0b0a4804",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ed591a484f",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed581a64c8",
+            "role": "Character Design, Animation Director"
+        },
+        {
+            "id": "6a2f045a1a45e",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2ed00bb2282",
+            "role": "Character Design"
+        },
+        {
+            "id": "6a2eaa88c8cf2",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed03ba7252",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2f845bc1206",
+            "role": "Music"
+        },
+        {
+            "id": "6a2ec1b356d82",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2ed5922ebcf",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecdac163cf",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2ea95240f05",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecdac2231f",
+            "role": "Key Animation, Animation Director"
+        },
+        {
+            "id": "6a2eac50903d3",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed25ccc69e",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2ed74879947",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eda8d2caff",
+            "role": "Character Design, Art Director"
+        },
+        {
+            "id": "6a2fad115904f",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2f4bbbeeee0",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2fad11e874c",
+            "role": "Original Creator"
+        },
+        {
+            "id": "6a2ec307f1824",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eb374e56a2",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ed592b7980",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec220cdecf",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed23128f0e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ece14c12f8",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ef3119901c",
+            "role": "Director of Photography"
+        },
+        {
+            "id": "6a2ed74588140",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecfb23ef2e",
+            "role": "Character Design"
+        },
+        {
+            "id": "6a2ea952cb428",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ee9c7311b0",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecc459a82f",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eb4497d545",
+            "role": "Character Design"
+        },
+        {
+            "id": "6a2e8dce14234",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecd4c4fb73",
+            "role": "Music"
+        },
+        {
+            "id": "6a2ed6794527c",
+            "role": "Music"
+        },
+        {
+            "id": "6a2ed5934b13e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed23183218",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2fad1354824",
+            "role": "Character Design"
+        },
+        {
+            "id": "6a2ecd712399c",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2ed0c643ec6",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2fad1432cc2",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecd167b90e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e90e27e6dd",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec59bb45fb",
+            "role": "Mechanical Design"
+        },
+        {
+            "id": "6a2ed62519063",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed593b9138",
+            "role": "Character Design, Animation Director"
+        },
+        {
+            "id": "6a2ed2326f63d",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2ecc68d89b0",
+            "role": "Music"
+        },
+        {
+            "id": "6a2ed03cd6b74",
+            "role": "Editing"
+        },
+        {
+            "id": "6a2edebc3aabf",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed7460b281",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed644358e8",
+            "role": "Character Design, Animation Director"
+        },
+        {
+            "id": "6a2ecd719287e",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2e9e26cd2da",
+            "role": "In-Between Animation"
+        }
+    ],
+    "statistics": {
+        "saison": 1,
+        "episode": 9
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "slug": "mermaid-melody-pichi-pichi-pitch",
+    "title": "Mermaid Melody : Pichi Pichi Pitch",
+    "description": "Lucia Nanami, la princesse sirène du Pacifique Nord, arrive dans le royaume des humains avec son pingouin Hippo pour récupérer sa perle rose. Lucia l'a jadis confiée à un jeune garçon, Kaïto, après l'avoir sauvé de la noyade. Sur la terre, elle rencontrera d'autres princesses : Hanon et Lina. Elles ont tous un point en commun leur royaume a été détruit par un démon nommé Gaito. Ce dernier tente de capturer les princesses et de voler leurs perles, puisque son but ultime est de régner sur le monde marin. Ensembles, elles lutteront contre l'affreux démon marin. A travers toute ses aventures Lucia, Hanon et Lina rencontrerons d'autres princesses et tenterons de sauver Sara (la princesse de l'océan indien) qui vit sous l'emprise de Gaito.",
+    "genres": [
+        "Aventure ",
+        " Comédie ",
+        " Romance ",
+        " Shôjo ",
+        " Amitié ",
+        " Amour ",
+        " Chant ",
+        " Magical girl ",
+        " Magie ",
+        " Musique ",
+        " Sirène"
+    ],
+    "langues": "vf, vostfr",
+    "staff": [
+        {
+            "id": "6a2ee7aaa724a",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2eab69464c1",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e959c89437",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e959f63381",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e8e395c490",
+            "role": "Director, Storyboard"
+        },
+        {
+            "id": "6a2ed3fee400e",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ed55e7d006",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ed52b5e0e1",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ede6240ef8",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2eccc312477",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ed52b7875b",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ebf15320e5",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ede6319f71",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2f0e9c07546",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ed3ffb6b0a",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2eac4ea86e7",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2f0e9c2108e",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ed40006493",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ed04cc8e50",
+            "role": "Script, Series Composition"
+        },
+        {
+            "id": "6a2ecc4673dfc",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ed40040e06",
+            "role": "Script"
+        },
+        {
+            "id": "6a2e8e39d0cdc",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2f0e9c4cdd6",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2eac4e6bea5",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2e94474d45d",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ebf1580492",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2f0e9c6c6cb",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2e8e399a9d0",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2e959d097ec",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2f0e9c8a312",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2f0e9c9c58b",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2f0e9cabe3d",
+            "role": "Theme Song Composition"
+        },
+        {
+            "id": "6a2ed6d26235f",
+            "role": "Theme Song Lyrics"
+        },
+        {
+            "id": "6a2f0e9cc0b94",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2f0e9cd06b3",
+            "role": "Theme Song Performance, Inserted Song Performance"
+        },
+        {
+            "id": "6a2f0e9ce2cc6",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2e9447b9894",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ecd9ab2dc8",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8cee170b3",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ecc9fe87fc",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2f0e9d13e20",
+            "role": "Inserted Song Performance"
+        },
+        {
+            "id": "6a2f0e9d2db6b",
+            "role": "Inserted Song Performance"
+        },
+        {
+            "id": "6a2f0e9d43f5f",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ed00b90a13",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2f0e9d5f81f",
+            "role": "Original Creator"
+        },
+        {
+            "id": "6a2e90e147638",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e90e150f03",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ebf15aeea4",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed957292a9",
+            "role": "Animation Director, Assistant Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2eabda8e8c1",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ee66592ffb",
+            "role": "Key Animation, Animation Director, Assistant Animation Director"
+        },
+        {
+            "id": "6a2e936760b33",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec067e4422",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e90e16e5fb",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2f0e9e40795",
+            "role": "Inserted Song Performance"
+        },
+        {
+            "id": "6a2e96520575d",
+            "role": "Chief Animation Director, Animation Director, Character Design"
+        },
+        {
+            "id": "6a2ecc67cfcf6",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eac512667c",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ee74597682",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ecd15a7fa6",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ece26ec088",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e9ecdd7e0c",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2f0e9e76b34",
+            "role": "Inserted Song Performance"
+        },
+        {
+            "id": "6a2ed23128f0e",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ecdcadcc3d",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eee64de53a",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2f0e9e9a8b9",
+            "role": "Screenplay"
+        },
+        {
+            "id": "6a2f053b9063e",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2f0e9eafe0a",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ee88f1911e",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ed097769b2",
+            "role": "Editing"
+        },
+        {
+            "id": "6a2ee1fea96bf",
+            "role": "Key Animation, Animation Director"
+        },
+        {
+            "id": "6a2f0e9ed424c",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2e9367f287d",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2f0e9eec6b7",
+            "role": "Inserted Song Performance"
+        },
+        {
+            "id": "6a2ecc7bc1067",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8ffe749e4",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eced710e8b",
+            "role": "Art Director"
+        }
+    ],
+    "statistics": {
+        "saison": 2,
+        "episode": 40
+    }
+}

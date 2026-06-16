@@ -1,0 +1,285 @@
+{
+    "slug": "akudama-drive",
+    "title": "Akudama Drive",
+    "description": "Kanto et Kansai, deux régions adjacentes, se sont autrefois déchirées à l'occasion d'une guerre particulièrement violente. Le conflit prit fin lorsqu'une bombe fût lâchée sur Kansai, créant un dôme infranchissable autour de la région. Désormais, le seul moyen de quitter les lieux est d'emprunter le Shinkansen, devenu un objet sacré et révéré à Kansai.\r\nCoupée du monde, affaiblie par la guerre, la région de Kansai est progressivement devenue une zone de non-droit où les criminels, surnommés Akudama, prolifèrent.\r\nUn jour, alors qu'elle est au commissariat à la suite d'une erreur judiciaire, une citoyenne ordinaire est entrainée bien malgré elle par un groupe d'Akudama. Leur but ? Attaquer le Shinkansen et récupérer un coffre-fort qui s'y trouve.",
+    "genres": [
+        "Cyberpunk",
+        " Action",
+        " Drame",
+        " Mystère",
+        " Crime",
+        " Aventure",
+        " Seinen"
+    ],
+    "langues": "vostfr",
+    "staff": [
+        {
+            "id": "6a2e8c79a5971",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ec1b1a3dc6",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ec377382cf",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ec1b1c1bd0",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e8c79c5376",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2ec3774701f",
+            "role": "Director, Episode Director, Script, Storyboard, Series Composition"
+        },
+        {
+            "id": "6a2ec1b1db5a5",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2ec377c0f5d",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ec1b22de2a",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ec377cce5b",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e93d723924",
+            "role": "Script, Storyboard"
+        },
+        {
+            "id": "6a2ec377d6b99",
+            "role": "Script, Storyboard, Assistant Director"
+        },
+        {
+            "id": "6a2ec1b5406d7",
+            "role": "Storyboard, Key Animation, Assistant Animation Director"
+        },
+        {
+            "id": "6a2ec377e191a",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec377eb4ae",
+            "role": "Theme Song Arrangement, Theme Song Composition"
+        },
+        {
+            "id": "6a2ec37800216",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec3780a2ec",
+            "role": "Music"
+        },
+        {
+            "id": "6a2ec378133d4",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2ec3781ca54",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ec1b2ea63e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec1b1eba29",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec3782945b",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ec0da7eb08",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2ec3783b05a",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ec378455c5",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ea951a67eb",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e94b830f6f",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec37853431",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e906e5e475",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e94477d017",
+            "role": "Music"
+        },
+        {
+            "id": "6a2ec3785fd39",
+            "role": "Series Composition"
+        },
+        {
+            "id": "6a2ec1b3632ba",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ec3786da87",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec3787861c",
+            "role": "Original Creator"
+        },
+        {
+            "id": "6a2ec378817e7",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ec3788b6a0",
+            "role": "Original Character Design"
+        },
+        {
+            "id": "6a2e9528eeb22",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec37896893",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec378a020c",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ec378aba72",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec1b405635",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2e8dcdd5f6f",
+            "role": "Editing"
+        },
+        {
+            "id": "6a2ec378bb194",
+            "role": "Mechanical Design"
+        },
+        {
+            "id": "6a2ec378c4d3f",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ec378cf8ad",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec069571d0",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec378da64a",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2e8c0bc1b06",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ec1b476947",
+            "role": "Key Animation, Assistant Animation Director, Animation Director"
+        },
+        {
+            "id": "6a2e8cef652f5",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e944aa0ccb",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec378e76d8",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ec378f1eb4",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ec379080c4",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2ec37911946",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2eabdd24d6a",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e94b88f675",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ec3791dd80",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2ec37927892",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec37930e1c",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e952c2591f",
+            "role": "Mechanical Design"
+        },
+        {
+            "id": "6a2ec1b524293",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ec3793d75a",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec3794703d",
+            "role": "Director of Photography"
+        },
+        {
+            "id": "6a2e8b6bf04f3",
+            "role": "Mechanical Design"
+        },
+        {
+            "id": "6a2ec1b549f44",
+            "role": "Character Design"
+        }
+    ],
+    "statistics": {
+        "saison": 1,
+        "episode": 12
+    }
+}

@@ -1,0 +1,1041 @@
+{
+    "slug": "tiger-and-bunny",
+    "title": "Tiger & Bunny",
+    "description": "L'histoire se passe à Stern Bild City. Dans cette ville, les super-héros sont à l'honneur et sont carrément sponsorisés par de grandes industries. Leurs exploits sont diffusés à la télévision durant de grands shows récoltant de nombreux auditeurs et, chaque année l'un d'entre eux est nommé 'Roi des héros'. Wild Tiger, un vétéran solitaire relativement connu, doit soudain faire équipe avec un nouveau venu dans le milieu, Barnaby Brooks Jr. Mais ce-dernier a une vision du métier à l'opposé de son ainé. Nos deux héros vont tout de même devoir coopérer malgré les disputes et les tensions !",
+    "genres": [
+        "Action",
+        " Comédie",
+        " Drame",
+        " Science-fiction",
+        " Combats",
+        " Super-héros",
+        " Super pouvoirs"
+    ],
+    "langues": "vf, vostfr",
+    "staff": [
+        {
+            "id": "6a2e90e1e4bfa",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ef7c046333",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2eb449a39b2",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2eff175528d",
+            "role": "Director, Storyboard, Assistant Animation Director"
+        },
+        {
+            "id": "6a2ed9cdd411e",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2eac4e4cb3c",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2eab6755f1a",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2eaaf7b0e98",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ecd2515422",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ec1b20c1b4",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ed923395af",
+            "role": "Episode Director, Storyboard, Key Animation, Animation Director"
+        },
+        {
+            "id": "6a2ec1b2628d4",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ed5d049e39",
+            "role": "Episode Director, Storyboard, Key Animation"
+        },
+        {
+            "id": "6a2eedfcb3b1c",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ed68663ebb",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e8b6b64c2f",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ed4b2a7665",
+            "role": "Episode Director, Storyboard, Animation Director"
+        },
+        {
+            "id": "6a2e8b6b868cc",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ee7340a214",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2f6e58c4544",
+            "role": "Script, Series Composition"
+        },
+        {
+            "id": "6a2f05e271308",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ee606923c9",
+            "role": "Script"
+        },
+        {
+            "id": "6a2eaa882f425",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ed439cfe04",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ed4e274c11",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ee5187dfcd",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2e972d9097d",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ed8ad66121",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2e944769b7e",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ee37f08c36",
+            "role": "Theme Song Arrangement"
+        },
+        {
+            "id": "6a2fd89b47015",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ed230450de",
+            "role": "Theme Song Lyrics, Theme Song Composition"
+        },
+        {
+            "id": "6a2fd89c1f52d",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ed2305133a",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2e90e0f2579",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecd0093332",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e90e117b06",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec6771a681",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2eaa1817df4",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ec676e7c9e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2fd89d2d021",
+            "role": "Mechanical Design"
+        },
+        {
+            "id": "6a2ec2217faa4",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eda7aab884",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eabd9bf3ad",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2f0b9f3e75a",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ecf6c02f44",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaa183519a",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed2ea67960",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed2ea76370",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec67780e8d",
+            "role": "Key Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2ec221d1bdf",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8b6c71b7b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e94b804691",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e94b8157bd",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed404e799e",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2e952792dd2",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ec0da87b17",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaaf911f39",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9ecc47c39",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec45309098",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed062d994b",
+            "role": "Animation Director, Character Design, Assistant Animation Director, Key Animation, Chief Animation Director"
+        },
+        {
+            "id": "6a2e9527a6e68",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaaf925ae0",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ec4531407a",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9ecc676de",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9527d2be0",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eb448cde8b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed46c3291f",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecdbb58b2c",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecc8ca98fd",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ea951d02e0",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaaf960d6c",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9527ef451",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed349894c5",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaaf972e0a",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e90e147638",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec292442c2",
+            "role": "Music"
+        },
+        {
+            "id": "6a2e9e23a259e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecd84a2381",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e906e6a57c",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecc79b4663",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed03ba7252",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed06329fca",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2fd89ec0c12",
+            "role": "2nd Key Animation, Animation Director, Assistant Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2e96504c75c",
+            "role": "2nd Key Animation, Key Animation"
+        },
+        {
+            "id": "6a2e9448e427b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e972edd86e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eabda7c557",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ece4ace57f",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eabda8559f",
+            "role": "Key Animation, Animation Director"
+        },
+        {
+            "id": "6a2eb4491966b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e936757a14",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaaf9d0a75",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ea9522e7a6",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9ecd08c2f",
+            "role": "Key Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2ecd6f9b382",
+            "role": "In-Between Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2eda8cd8ece",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ecc7a08710",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2fd89f6217d",
+            "role": "Original Character Design, Principle Drawing"
+        },
+        {
+            "id": "6a2edb26697d3",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eabdab3153",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e944973d73",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eac50a2bff",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2e8ceedcf62",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9528c535d",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e90e1bb899",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ec609b5062",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2eaafa4bc70",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec3e5d8755",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e93d6eb8b4",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8c7c31607",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed6878b845",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2e8ffd6b6b6",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaafa7d202",
+            "role": "Sound Effects"
+        },
+        {
+            "id": "6a2e8e3a5427b",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2eab698388c",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ea4a5bd9f5",
+            "role": "Animation Check"
+        },
+        {
+            "id": "6a2eac510bfee",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed0b0f12bf",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2e90dfdf64e",
+            "role": "Associate Producer"
+        },
+        {
+            "id": "6a2ee5b10f68f",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed687ba64f",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eb5277d328",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2e8e3a64721",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eb4493e8dc",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2f1a75331f7",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eced621462",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec0689ab4c",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2eaafab822e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaa192f7de",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed5e270a96",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaafaca069",
+            "role": "Key Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2e96521764c",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2ed80646866",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8b6e12ba1",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ef8d695061",
+            "role": "In-Between Animation, 2nd Key Animation, Key Animation"
+        },
+        {
+            "id": "6a2eb449482ac",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecd15a7fa6",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eaa196c4fb",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecc7a6df73",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9e24a6926",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8e3a858c1",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec068c7263",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecf9e93eea",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecce279ed4",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eabdb7479b",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2edad53b5c8",
+            "role": "Special Effects"
+        },
+        {
+            "id": "6a2e9529b648f",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed6880a38e",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2ed2414b097",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ee556ae911",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8e3aa49a8",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ecc68272e2",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e93d7e6d57",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e97d27c720",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2f2562a2f26",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2e9529ee7a3",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed40713ed6",
+            "role": "2nd Key Animation, Animation Director"
+        },
+        {
+            "id": "6a2eab69e1382",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eb449729ad",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaafb7aefd",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaa895ae6b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecdefc7ce5",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed40739ff3",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaa17b53a6",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec59b6feaf",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec84012a25",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8c7d4b47e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eb272ef6b7",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ec06962799",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e952a47660",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ea4a65e887",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eac5194850",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed6882c48b",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ed241c3bf9",
+            "role": "Editing"
+        },
+        {
+            "id": "6a2e959e8e99d",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e96523609f",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2f2d5c9620d",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2eb60078a6e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9e25288e3",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed2316118c",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9ece36119",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2e952a9d21b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2f635060990",
+            "role": "Key Animation, Assistant Animation Director"
+        },
+        {
+            "id": "6a2ed23e729d5",
+            "role": "Assistant Animation Director"
+        },
+        {
+            "id": "6a2ed0b14f404",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2e93d80da73",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecf0d49e69",
+            "role": "Key Animation, Animation Director"
+        },
+        {
+            "id": "6a2ecd4c66b9d",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e952aafd2b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaa19e6b76",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ec59b9a9d7",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ea4a6a6423",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eab6a476c0",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed00cb31fa",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ee74a59418",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2eac52060d6",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec069c9d20",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8b6ee2d8d",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9ece70c0c",
+            "role": "Key Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2ed59f8bdfa",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8e3b0d8e2",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecd711758c",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecc7b1bd8b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed3b14da66",
+            "role": "Layout, Key Animation"
+        },
+        {
+            "id": "6a2eabdcd933c",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed5123a317",
+            "role": "Key Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2e9070498e8",
+            "role": "Key Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2eee0386f96",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ed6fcaa779",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2e97302bfeb",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eabdd515bd",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecdcc89071",
+            "role": "Key Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2ed35c4120e",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2eab6aaa5df",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed34a9e3b7",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eabdd80b41",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e952bcb7e5",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ee74c40d26",
+            "role": "Key Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2eb449b9106",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecd16900fe",
+            "role": "Key Animation, 2nd Key Animation, Assistant Animation Director, Animation Director"
+        },
+        {
+            "id": "6a2eaafd535f7",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eb375ec81b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8c7e85262",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8c7e970ab",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed215e0086",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ecd85cb83a",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaafd63731",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed74b79daa",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed8b0308b2",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecc7b81458",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8b6b7aeae",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e944c0b03f",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e952c778bd",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ea4a7a4206",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2eaafd7cc95",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ec2256c46e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e952c8b759",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed5c48860f",
+            "role": "Character Design"
+        },
+        {
+            "id": "6a2e8e3b41239",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e90e2c412e",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ece27dd3d7",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed23e9a33a",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecc3601af4",
+            "role": "2nd Key Animation, Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ec06b2df32",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2e8b6bf04f3",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed6fd08db9",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2eaa1ae546f",
+            "role": "2nd Key Animation, Key Animation"
+        },
+        {
+            "id": "6a2ed097b40bc",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec3e66928b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed8fbdf4a4",
+            "role": "Original Creator"
+        },
+        {
+            "id": "6a2ed35ca1ad3",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e952ce4227",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaafda3321",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaa1b1fcb9",
+            "role": "Key Animation, 2nd Key Animation"
+        }
+    ],
+    "statistics": {
+        "saison": 2,
+        "episode": 38
+    }
+}

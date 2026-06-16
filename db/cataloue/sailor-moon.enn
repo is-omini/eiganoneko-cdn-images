@@ -1,0 +1,352 @@
+{
+    "slug": "sailor-moon",
+    "title": "Sailor Moon",
+    "description": "Usagi Tsukino est une adolescente tout ce qu'il y a de plus banale, paresseuse, nulle à l'école, gourmande et fan de jeux vidéo. Un jour, elle aide une chatte maltraitée par des enfants et la retrouve le soir-même dans sa chambre. Usagi n'est pas au bout de ses surprises puisque la chatte se met à parler et se présente sous le nom de Luna. Elle donne à Usagi un bâton lui permettant de se transformer en Sailor Moon afin de sauver le monde des forces du mal. Elle va vite être rejointe par Sailor Vénus qui jouait déjà les justicières masquées depuis 2 ans sous le pseudo de Sailor V, mais aussi de Sailor Mars, Sailor Mercure et Sailor Jupiter. Les 5 guerrières de la Lune ainsi réunies vont commencer à combattre les forces du mal afin d'empêcher la Reine Béryl d'arriver à ses fins.",
+    "genres": [
+        "Action",
+        " Comédie",
+        " Drame",
+        " Romance",
+        " Shojo",
+        " Amitié",
+        " Magical girl",
+        " Magie",
+        " Nostalgie",
+        " Tokusatsu"
+    ],
+    "langues": "vf, vostfr",
+    "staff": [
+        {
+            "id": "6a2eb449a39b2",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed537c7a3c",
+            "role": "Director, Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ee0f23a42c",
+            "role": "Sound Director, Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ed47e7b9d8",
+            "role": "Episode Director, Storyboard, Production Manager"
+        },
+        {
+            "id": "6a2ecddd938a5",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2eb6001244b",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ecc23e23e1",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2e96bfbb95e",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ebf153c722",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ebf14e6b3b",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ee15e1e6ec",
+            "role": "Script"
+        },
+        {
+            "id": "6a2f86c218f22",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ee0f3f0cdd",
+            "role": "Script"
+        },
+        {
+            "id": "6a2f86c2316af",
+            "role": "Script"
+        },
+        {
+            "id": "6a2f86c2cf66a",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ed70d9ed85",
+            "role": "Theme Song Composition, Theme Song Arrangement"
+        },
+        {
+            "id": "6a2ed6e4e18d5",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2f86c3b31f5",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ee0f6042ca",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ede6cd9fd9",
+            "role": "Theme Song Arrangement"
+        },
+        {
+            "id": "6a2ede6df0af3",
+            "role": "Theme Song Composition"
+        },
+        {
+            "id": "6a2eefe2e9cf3",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ed6e51a58f",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ed70de15e5",
+            "role": "Theme Song Lyrics"
+        },
+        {
+            "id": "6a2ecea0503bf",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec676e7c9e",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ed29b4ec79",
+            "role": "Music"
+        },
+        {
+            "id": "6a2ee0f6adac7",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2eb448aa0e8",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2f86c4ddad4",
+            "role": "Inserted Song Performance"
+        },
+        {
+            "id": "6a2ed23f81892",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ee0f5b1581",
+            "role": "Inserted Song Performance"
+        },
+        {
+            "id": "6a2ed404e799e",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2e9527770a2",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ecd9b0e290",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9448356bf",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed8fa0e78f",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2f86c576b21",
+            "role": "Inserted Song Performance"
+        },
+        {
+            "id": "6a2e8e3a10a7a",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2f2e4ea49ab",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed414740ed",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2eee168bf8a",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed6e5a6f2a",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ece4ace57f",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ed0b0cb1cd",
+            "role": "Recording Engineer"
+        },
+        {
+            "id": "6a2ed23fe3812",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec0dab2244",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ed47fc91c3",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2edf618e99e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8ffd62b42",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec1b3a1e90",
+            "role": "Sound Effects"
+        },
+        {
+            "id": "6a2eabdae2313",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2f725e33452",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ee262ad2c7",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8ffd84f44",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8c7ca1854",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ed80646866",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2f86c6216cc",
+            "role": "Inserted Song Performance"
+        },
+        {
+            "id": "6a2ec52e96cd1",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2ed8aee255b",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ece25efba6",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed399e1a45",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2f22b9db347",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ecd1349e10",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed4d64d765",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed8fb36422",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2f86c66f92a",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2eede5103a0",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2f86c6888e5",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2f86c737752",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ece4c5e343",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed688566d6",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2f86c7e8b40",
+            "role": "Animation Director, Character Design"
+        },
+        {
+            "id": "6a2ed512594b5",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ec451f2e2e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2f86c8a4bd8",
+            "role": "Original Creator"
+        },
+        {
+            "id": "6a2f86c94eb98",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2f86c95e57b",
+            "role": "Inserted Song Performance"
+        },
+        {
+            "id": "6a2ee87205a35",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec1b5406d7",
+            "role": "Special Effects"
+        },
+        {
+            "id": "6a2ed39bdaa97",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8ffc4fd26",
+            "role": "Key Animation"
+        }
+    ],
+    "statistics": {
+        "saison": 5,
+        "episode": 204
+    }
+}

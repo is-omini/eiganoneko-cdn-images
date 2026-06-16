@@ -1,0 +1,33 @@
+{
+    "slug": "paradox-live",
+    "title": "Paradox Live",
+    "description": "Projet d'animation faisant partie du projet transmedia Paradox Live.",
+    "genres": [
+        "Slice of Life",
+        " Musique",
+        " Rap"
+    ],
+    "langues": "vostfr",
+    "staff": [
+        {
+            "id": "6a2f62bca9941",
+            "role": "Original Character Design"
+        },
+        {
+            "id": "6a2f62bd81354",
+            "role": "Original Character Design"
+        },
+        {
+            "id": "6a2f62be0b7bf",
+            "role": "Original Character Design"
+        },
+        {
+            "id": "6a2f62be1b172",
+            "role": "Original Character Design"
+        }
+    ],
+    "statistics": {
+        "saison": 1,
+        "episode": 12
+    }
+}

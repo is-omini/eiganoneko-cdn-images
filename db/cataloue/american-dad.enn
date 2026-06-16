@@ -1,0 +1,35 @@
+{
+    "slug": "american-dad",
+    "title": "American Dad",
+    "description": "Les escapades aléatoires de Stan Smith, un conservateur et agent de la C.I.A. gérant sa vie de famille et assurant la sécurité de l'Amérique, le tout de la manière la plus absurde possible.",
+    "genres": [
+        "Comédie",
+        " Action",
+        " Drame",
+        " Science-fiction",
+        " Fantastique"
+    ],
+    "langues": "vf, vo, vostfr",
+    "staff": [
+        {
+            "id": "6a2eccd2c8fd2",
+            "role": "Director"
+        },
+        {
+            "id": "6a2eccd2d5f16",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eccd2e0d36",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eccd2ea2d8",
+            "role": "Art Director"
+        }
+    ],
+    "statistics": {
+        "saison": 17,
+        "episode": 329
+    }
+}

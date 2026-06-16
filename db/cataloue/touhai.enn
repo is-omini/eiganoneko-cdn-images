@@ -1,0 +1,393 @@
+{
+    "slug": "touhai",
+    "title": "Touhai",
+    "description": "Peu de gens savent que l'un des joueurs de Mahjong le plus talentueux et impitoyable de la ville est un jeune lycéen. Kei est un adolescent peu loquace, mais son sens de l'observation, sa volonté inébranlable et son expérience du jeu lui permettent de survivre dans un monde rempli de personnages puissants, riches et dangereux. Kei cache actuellement une jeune fille nommée Amina qui est entrée illégalement dans le pays et la protège de l'expulsion. Il passe ses journées à dormir en classe et ses nuits à jouer au Mahjong, en attendant qu'un adversaire de taille arrive.",
+    "genres": [
+        "Drame",
+        " Psychologique",
+        " Romance",
+        " Ecole",
+        " Jeux",
+        " Mahjong",
+        " Sport"
+    ],
+    "langues": "vostfr",
+    "staff": [
+        {
+            "id": "6a2ecf20aed21",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed25bc187c",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2f3a9e58d8a",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ec1b4dc69e",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed8618eb8a",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2eac4f0ac04",
+            "role": "Director, Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2eb4ba6de46",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2ee7326839c",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e906cea35f",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ed4a383af4",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2e8ffbbc452",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2eabd8cc262",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ed6e4689ce",
+            "role": "Episode Director, Storyboard, Key Animation"
+        },
+        {
+            "id": "6a2ecefba0643",
+            "role": "Episode Director, Storyboard, Assistant Director"
+        },
+        {
+            "id": "6a2ebea3db0ef",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2e8dcd338a5",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2f20b0cb4db",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e8b6b9e79b",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ecc66236b6",
+            "role": "Script"
+        },
+        {
+            "id": "6a2f066ddc23b",
+            "role": "Script, Series Composition"
+        },
+        {
+            "id": "6a2ed0afd844b",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ed7ca59800",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ed5038afa0",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2eac4e36024",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ec0663b2b5",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2eccc378f56",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ed47e4f95e",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ed746368a1",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2f923f7e347",
+            "role": "Theme Song Composition, Theme Song Lyrics"
+        },
+        {
+            "id": "6a2ed39a222bb",
+            "role": "Recording"
+        },
+        {
+            "id": "6a2eac50025b4",
+            "role": "Special Effects"
+        },
+        {
+            "id": "6a2ed2917158b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed862586d8",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2f448272921",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2fe007b611f",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2e952737e78",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2f1be4bdc81",
+            "role": "Original Creator"
+        },
+        {
+            "id": "6a2e944845fe6",
+            "role": "Sound Effects"
+        },
+        {
+            "id": "6a2ed39a592da",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed2d5d2fee",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2e9ecc676de",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecc79a5e1d",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2e8c7b89b6d",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2e9e23b2ab2",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed7d955c2e",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2ed39a85ec7",
+            "role": "Animation Check, In-Between Animation"
+        },
+        {
+            "id": "6a2eaaf9f048e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed862e0e1f",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2eb37498906",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2ed861a6e7b",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed862d5544",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2eb3748ef35",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2eb3746d9c3",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed862f1963",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed7d99b8e9",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2e8e3a5c50c",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ed8631b25c",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2edbb6ba0af",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ed39ae54ac",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ed26bd495d",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec222ed5d8",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2eb374e56a2",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ed0b12c8e6",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2fe008cb31a",
+            "role": "Director of Photography"
+        },
+        {
+            "id": "6a2ee747d7f93",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2fe008e63d6",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2e8c7d79e01",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2eaa19b8055",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9e250e981",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2edbb72ce7b",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ed7a384dc5",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ed8636e0e6",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2edbb744cd8",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ed2d7546dd",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2ed7da33696",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2e9ece45175",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec52e0a707",
+            "role": "Co-Producer"
+        },
+        {
+            "id": "6a2ed2d76a3bd",
+            "role": "Special Effects"
+        },
+        {
+            "id": "6a2ed5fc78abb",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ecf8f14078",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2edbb8473f1",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ed2d7a35a2",
+            "role": "Key Animation, Animation Director, Chief Animation Director"
+        },
+        {
+            "id": "6a2ed8402dfec",
+            "role": "Production Assistant"
+        },
+        {
+            "id": "6a2edbb8a41df",
+            "role": "Music"
+        },
+        {
+            "id": "6a2eac5264040",
+            "role": "Editing"
+        },
+        {
+            "id": "6a2eac527d6a7",
+            "role": "Art Director, Background Art"
+        },
+        {
+            "id": "6a2ebea3d195b",
+            "role": "Character Design, Animation Director, Chief Animation Director"
+        },
+        {
+            "id": "6a2ee74d36776",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed861c55de",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed40980420",
+            "role": "Background Art, Art Director"
+        },
+        {
+            "id": "6a2e9e26cd2da",
+            "role": "In-Between Animation"
+        },
+        {
+            "id": "6a2ed409b4d1b",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2fe009ea0e1",
+            "role": "In-Between Animation"
+        }
+    ],
+    "statistics": {
+        "saison": 1,
+        "episode": 25
+    }
+}

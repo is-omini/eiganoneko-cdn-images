@@ -1,0 +1,480 @@
+{
+    "slug": "shinobi-no-ittoki",
+    "title": "Shinobi no Ittoki",
+    "description": "L'histoire se déroule dans un monde où deux puissants clans ninjas, les Iga et les Koga, se livrent à une lutte sans merci dans l'ombre. Ichiji Sakuraba est un lycéen comme tant d'autres, persuadé que les ninjas ne sont que des légendes. Sa vie bascule le jour où il est pris pour cible par des ninjas du clan Koga. Il apprend alors qu'il est l'héritier légitime du clan Iga, ce qui fait de lui une cible. Son quotidien tranquille est terminé.",
+    "genres": [
+        "Science",
+        "fiction"
+    ],
+    "langues": "vostfr",
+    "staff": [
+        {
+            "id": "6a2ea4a4168e5",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed22fc281e",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2f3c322a621",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ec60868aa4",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed4a552f6d",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2eccffb172b",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ef3a586875",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ecc4535125",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2eab676a4dc",
+            "role": "Director, Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2e8b6b2633c",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2ed26ad5675",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ed6777f7dc",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2f378681149",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e965019d9e",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2f99c237bc7",
+            "role": "Script, Series Composition"
+        },
+        {
+            "id": "6a2ec608a4cd1",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ed52bdc29d",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2eea9440b97",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ee2ce9db2d",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2e97d22f992",
+            "role": "Theme Song Arrangement"
+        },
+        {
+            "id": "6a2f7a67281f1",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ec2214ba3d",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed6ab707bc",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2e9447cd580",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e96511f694",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ed9cf1d036",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2e8c7ac3305",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8b6c71b7b",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eabda0d6ba",
+            "role": "2nd Key Animation, Key Animation, Assistant Animation Director"
+        },
+        {
+            "id": "6a2ea4a5005c9",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ecc787d09c",
+            "role": "Animation Director, Chief Animation Director"
+        },
+        {
+            "id": "6a2e96517f72e",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ecf9e66d57",
+            "role": "Key Animation, 2nd Key Animation, Animation Director, Assistant Animation Director"
+        },
+        {
+            "id": "6a2ed51ee0f1c",
+            "role": "Color Setting"
+        },
+        {
+            "id": "6a2e96518864f",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e9e236f1ed",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecc45e9ef1",
+            "role": "Director of Photography"
+        },
+        {
+            "id": "6a2ed22f8c937",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2ec3073311c",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e90e147638",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed230bd190",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2e8c7b530d7",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed0631fa36",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9f3b03b54",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2e9448ee459",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed51f504d9",
+            "role": "Assistant Animation Director"
+        },
+        {
+            "id": "6a2eced5e6750",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2ecfb1ac662",
+            "role": "Publicity"
+        },
+        {
+            "id": "6a2e8c7bb3b78",
+            "role": "Key Animation, Assistant Animation Director"
+        },
+        {
+            "id": "6a2ecc7a08710",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ec6099be77",
+            "role": "Director of Photography"
+        },
+        {
+            "id": "6a2e952899051",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed68764f23",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec068222dc",
+            "role": "Chief Animation Director"
+        },
+        {
+            "id": "6a2e93d7b3f4c",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ecc4549ec7",
+            "role": "Associate Producer"
+        },
+        {
+            "id": "6a2ed2c6e612b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eabdabc188",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eda595d9bc",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2e8c7c1fcd9",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e9e2443ea6",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ed65055d9b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2f6a2934946",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec609db47b",
+            "role": "Key Animation, Setting"
+        },
+        {
+            "id": "6a2eab699717e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecfe83d12e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e972f679e6",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec609f0885",
+            "role": "Editing"
+        },
+        {
+            "id": "6a2e8c7ccc9c1",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2edd23cff9f",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eaa196c4fb",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec22349f50",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ec223557a4",
+            "role": "2nd Key Animation, Key Animation"
+        },
+        {
+            "id": "6a2ecf9e93eea",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecc7a83ad6",
+            "role": "Assistant Animation Director, Key Animation, Animation Director, 2nd Key Animation"
+        },
+        {
+            "id": "6a2ebf1616e90",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec068d0f7c",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ea4a61c432",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2e944a40061",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed2313a6b9",
+            "role": "Publicity"
+        },
+        {
+            "id": "6a2e8c7d6977f",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2e8ffdbe8d8",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ea4a666ac2",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecf9eb38ff",
+            "role": "Chief Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2f3c345c0fb",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ebea54b51e",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eea6fd18f5",
+            "role": "Animation Director, Chief Animation Director"
+        },
+        {
+            "id": "6a2ec0db49d83",
+            "role": "Key Animation, Animation Director"
+        },
+        {
+            "id": "6a2e959ec5db5",
+            "role": "Key Animation, Animation Director"
+        },
+        {
+            "id": "6a2e8c7dad119",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2f02c582a5f",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ecf8edb0c8",
+            "role": "Online Editor"
+        },
+        {
+            "id": "6a2ed38870ef7",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecd014c34b",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ecc4656ca2",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2ecd9c1e519",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ecc465fc0a",
+            "role": "Chief Animation Director, Character Design"
+        },
+        {
+            "id": "6a2e8c7e1511c",
+            "role": "Key Animation, Animation Check"
+        },
+        {
+            "id": "6a2ec224d2b34",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ecd016d6fb",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2eabdd1beb5",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2ef934644d2",
+            "role": "Music"
+        },
+        {
+            "id": "6a2e97d2e1a35",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2e8c7e7c751",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eb6022feaf",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ebf80ecae3",
+            "role": "Publicity"
+        },
+        {
+            "id": "6a2e952c665c4",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e944bf311f",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2eccc4b2db2",
+            "role": "Sound Effects"
+        },
+        {
+            "id": "6a2ecca3083ed",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e959f63381",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2e8c7ebbb79",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eabde4ff3b",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e952d08780",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8c7edce96",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ed8520899f",
+            "role": "ADR Director"
+        }
+    ],
+    "statistics": {
+        "saison": 1,
+        "episode": 12
+    }
+}

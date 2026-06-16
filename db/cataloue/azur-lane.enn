@@ -1,0 +1,289 @@
+{
+    "slug": "azur-lane",
+    "title": "Azur Lane",
+    "description": "Des monstres puissants nommés Siren apparaissent soudainement de la mer. Pour les contrer, une section de l'armée nommée Azur Lane est créée. Cette section est composée de jeunes femmes capables d'utiliser un système avancé d'armement naval ou d'aviation. Ainsi, elles réussissent à repousser les forces ennemies lors d'une attaque. La guerre est cependant loin d'être finie.",
+    "genres": [
+        "Action",
+        " Comédie",
+        " Science-fiction"
+    ],
+    "langues": "vostfr",
+    "staff": [
+        {
+            "id": "6a2ed025821f2",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e8c79a5971",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed0258f5c2",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed02599aeb",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2eac51a03f0",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed025a6345",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed025b1680",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2e8c79c5376",
+            "role": "Assistant Producer"
+        },
+        {
+            "id": "6a2ed025bedca",
+            "role": "Director"
+        },
+        {
+            "id": "6a2e8c79d8fd9",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2e8b6f9e9e4",
+            "role": "Episode Director, Storyboard, Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ecd9a58f14",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ed025ceb04",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ec59ac205f",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2eaaf85defb",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2ecce21ee62",
+            "role": "Theme Song Arrangement"
+        },
+        {
+            "id": "6a2e93d76071f",
+            "role": "Theme Song Arrangement"
+        },
+        {
+            "id": "6a2e8e39c83e9",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec22175289",
+            "role": "2nd Key Animation, In-Between Animation"
+        },
+        {
+            "id": "6a2ed025e3239",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ed025ee232",
+            "role": "Director of Photography"
+        },
+        {
+            "id": "6a2ed02605cfa",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e8ceeacbc1",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ec608481ff",
+            "role": "Executive Producer"
+        },
+        {
+            "id": "6a2ecd25b5211",
+            "role": "2nd Key Animation, In-Between Animation"
+        },
+        {
+            "id": "6a2ed02616080",
+            "role": "Series Composition"
+        },
+        {
+            "id": "6a2ed0262a20f",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2e9e2377a39",
+            "role": "In-Between Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2eabda3867a",
+            "role": "Key Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2ed02638e55",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ed026428e1",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eaaf7f1366",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed0264dc41",
+            "role": "In-Between Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2ed0265915e",
+            "role": "Assistant Animation Director, 2nd Key Animation, Key Animation"
+        },
+        {
+            "id": "6a2eab68de551",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ece8c1a079",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2e8c7c66a06",
+            "role": "Key Animation, 2nd Key Animation"
+        },
+        {
+            "id": "6a2ec222d0a90",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed0266ae68",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ed026754b9",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed02686ba8",
+            "role": "Animation Director, Assistant Animation Director"
+        },
+        {
+            "id": "6a2e944a37452",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed0269509b",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ed0269f5f4",
+            "role": "Music"
+        },
+        {
+            "id": "6a2e8b6e7d78d",
+            "role": "Key Animation, Animation Director, Character Design, Chief Animation Director"
+        },
+        {
+            "id": "6a2ed026ad301",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec223e604e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed026b9d6e",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecd8583404",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2e9e25288e3",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecf5ca43b9",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ed026cc3f3",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2e8cef652f5",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e93d8050f1",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2ed026dc831",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e944aa0ccb",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2e959ed1783",
+            "role": "ADR Director"
+        },
+        {
+            "id": "6a2eaa8a2e1ee",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ec2247080a",
+            "role": "Background Art"
+        },
+        {
+            "id": "6a2ed026eceb1",
+            "role": "In-Between Animation, 2nd Key Animation, Key Animation"
+        },
+        {
+            "id": "6a2e9ecf17ac9",
+            "role": "Editing"
+        },
+        {
+            "id": "6a2ed02704514",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ecc7b684f9",
+            "role": "Key Animation, Assistant Animation Director"
+        },
+        {
+            "id": "6a2eabddbc307",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2ecee99d9a5",
+            "role": "Recording Assistant"
+        },
+        {
+            "id": "6a2ed02715f77",
+            "role": "Key Animation"
+        },
+        {
+            "id": "6a2eceea12648",
+            "role": "2nd Key Animation"
+        },
+        {
+            "id": "6a2ecf7d79ff4",
+            "role": "Key Animation"
+        }
+    ],
+    "statistics": {
+        "saison": 1,
+        "episode": 12
+    }
+}

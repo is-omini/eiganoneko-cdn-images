@@ -1,0 +1,253 @@
+{
+    "slug": "high-card",
+    "title": "High Card",
+    "description": "High Card est un projet multimédia centré sur le Poker et est basé sur un scénario écrit par l'auteur du manga Kakegurui, Homura Kawamoto, ainsi que son petit frère, Hikaru Muno. Au royaume de Fourland, il existe 52 cartes de jeu spéciales, les cartes X, qui peuvent donner des pouvoirs surnaturels aux joueurs qui les détiennent. Ces 52 cartes se sont éparpillées à travers le pays, causant de nombreux problèmes sur leur passage. L'histoire suit Finn Oldman et ses collègues, chargés de récupérer les cartes à travers le pays.",
+    "genres": "Psychologique",
+    "langues": "vostfr",
+    "staff": [
+        {
+            "id": "6a2ea4a4168e5",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ef735f14f4",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ed86fbbb05",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ecc350aec7",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ef73617b4c",
+            "role": "Producer"
+        },
+        {
+            "id": "6a2ee733cf52a",
+            "role": "Director, Storyboard"
+        },
+        {
+            "id": "6a2eaa87e5fb2",
+            "role": "Sound Director"
+        },
+        {
+            "id": "6a2ec1b30c369",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2e9ecca5ccc",
+            "role": "Episode Director, Animation Director"
+        },
+        {
+            "id": "6a2ee49c54540",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ecf30a873e",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ec1b2628d4",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ed0af9b0ae",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ef73655010",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ecf4af1f3d",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ee7f0ee104",
+            "role": "Episode Director, Storyboard"
+        },
+        {
+            "id": "6a2ef736730a1",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ef73680605",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ee9c27649e",
+            "role": "Episode Director"
+        },
+        {
+            "id": "6a2ed0afc250b",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ef73696acb",
+            "role": "Script"
+        },
+        {
+            "id": "6a2eb27242462",
+            "role": "Script"
+        },
+        {
+            "id": "6a2ec676a7949",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2e8cee0d93f",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ede62de2d4",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2e8c0c3b915",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2e8ffc46ea5",
+            "role": "Storyboard"
+        },
+        {
+            "id": "6a2ef736bf49d",
+            "role": "Theme Song Composition, Theme Song Performance"
+        },
+        {
+            "id": "6a2ee737a7195",
+            "role": "Theme Song Lyrics"
+        },
+        {
+            "id": "6a2e8cee6e42f",
+            "role": "Theme Song Performance"
+        },
+        {
+            "id": "6a2e8cee7f673",
+            "role": "Theme Song Lyrics"
+        },
+        {
+            "id": "6a2ef737953bb",
+            "role": "Original Character Design"
+        },
+        {
+            "id": "6a2ef7383b6b4",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e9ecc47c39",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2e96518864f",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e94485cbd6",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ecf31c0723",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e906e4db4f",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ef73861679",
+            "role": "Editing"
+        },
+        {
+            "id": "6a2ed5fc04b46",
+            "role": "Original Creator"
+        },
+        {
+            "id": "6a2ef73873362",
+            "role": "Chief Producer"
+        },
+        {
+            "id": "6a2ed8706196d",
+            "role": "Chief Animation Director, Animation Director, Character Design"
+        },
+        {
+            "id": "6a2ecf4bf0d7c",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e8d5f6af54",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ef7388e633",
+            "role": "Director of Photography"
+        },
+        {
+            "id": "6a2eaafa7d202",
+            "role": "Sound Effects"
+        },
+        {
+            "id": "6a2ef738a065c",
+            "role": "Series Composition"
+        },
+        {
+            "id": "6a2eb66cb79e2",
+            "role": "Animation Director, Key Animation"
+        },
+        {
+            "id": "6a2ed5fc281fb",
+            "role": "Original Creator"
+        },
+        {
+            "id": "6a2ed870740ac",
+            "role": "Chief Animation Director, Animation Director"
+        },
+        {
+            "id": "6a2eabdba630b",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ef738bf331",
+            "role": "Color Design"
+        },
+        {
+            "id": "6a2eee6569466",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2ecd014c34b",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2e94b886417",
+            "role": "Art Director"
+        },
+        {
+            "id": "6a2eaa8a495fa",
+            "role": "Music"
+        },
+        {
+            "id": "6a2ece02dd657",
+            "role": "Planning"
+        },
+        {
+            "id": "6a2ef738e5645",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2e9652f3fce",
+            "role": "Animation Director"
+        },
+        {
+            "id": "6a2ef73902352",
+            "role": "Animation Director"
+        }
+    ],
+    "statistics": {
+        "saison": 2,
+        "episode": 24
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "slug": "rick-et-morty",
+    "title": "Rick et Morty",
+    "description": "Un brillant inventeur et son petit fils un peu à l'Ouest partent à l'aventure...",
+    "genres": [
+        "Aventure",
+        " Comédie",
+        " Science-fiction",
+        " Animation"
+    ],
+    "langues": "vf, vostfr",
+    "staff": [
+        {
+            "id": "6a2f342034cc3",
+            "role": "Original Creator"
+        },
+        {
+            "id": "6a2eabdc90a8d",
+            "role": "Animation Director"
+        }
+    ],
+    "statistics": {
+        "saison": 8,
+        "episode": 81
+    }
+}
